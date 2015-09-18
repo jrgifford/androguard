@@ -1,0 +1,2 @@
+  * Pouik (Androguard Team) and G0rfi3ld , "Similarities for Fun & Profit", [Phrack 68](http://www.phrack.org/issues.html?issue=68&id=15#article)
+  * Anthony Desnos, Geoffroy Gueguen, "Android: from reversing to decompilation", [BlackHat Abu Dhabi 2011 slides](http://code.google.com/p/androguard/downloads/detail?name=bh2011.pdf)
